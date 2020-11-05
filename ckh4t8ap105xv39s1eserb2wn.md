@@ -1,6 +1,6 @@
 ## RecallGraph is now on the AppSumo Marketplace!
 
-I have exciting news! RecallGraph has just been launched on the  [AppSumo Marketplace](https://appsumo.com/recallgraph/) , and it is an absolute steal of a deal.
+I have exciting news! RecallGraph has just been launched on the  [AppSumo Marketplace](https://appsumo.com/recallgraph/), and it is an absolute steal of a deal.
 
 # Deal highlights
 1. This deal grants you **LIFETIME ACCESS** to all future premium features that RecallGraph will ever release. These include (tentatively) - full bitemporality, parallel realities, CQRS/ES operation mode and CEP.
