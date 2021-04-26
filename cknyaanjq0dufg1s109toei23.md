@@ -1,0 +1,3 @@
+## Temporal Query Types
+
+undefined
