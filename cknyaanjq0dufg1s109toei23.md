@@ -2,11 +2,9 @@
 
 At the time of writing this post, all of RecallGraph's API endpoints are designed to serve a particular type of temporal query, viz. _point-in-time_ queries.
 
-However, there are actually several classes of temporal queries that a temporal database could potentially support. As we shall discover, some of them may be achieved on RecallGraph, albeit by clever usage of parameter combinations on certain general purpose endpoints.
+However, there are actually several classes of temporal queries that a temporal database could potentially support. Some of them may be achieved on RecallGraph, albeit by clever usage of parameter combinations on certain general purpose endpoints.
 
 # Temporal Query Classes
-Temporal database concepts have been 
-
 ## Point-in-Time
 This is what most people will already be familiar with. Running a point-in-time query effectively amounts to asking a question on a historic snapshot of the data. Your data has a certain state at any given time, which gets modified through write-actions performed on it from time to time.
 
@@ -26,3 +24,12 @@ For example, this could be used to find the most recent time when the prices of 
 Extending the time-point-lookup concept described above, this query asks for an interval (or all intervals) where the object states matched the provided filter criteria.
 
 For example, we could use this to find the largest interval during which all objects matching a filter criteria were alive through the interval.
+
+# Appendix: Temporal Traversals and Analysis
+All the query classes described above pertain to individual document states, and hence are largely agnostic to the database's underlying model (KV/Document/Relational/Graph).
+
+In the context of graph traversals specifically, there are a number of additional temporal query types that can be defined, specifically pertaining to traversing temporal graphs or networks. This is a large field of study with research on the state-of-art still ongoing, esp. on temporal network analysis.
+
+Many definitions are still being drafted and revised, but a few patterns seem to have emerged already. These are briefly explored in the following Wikipedia article - https://en.wikipedia.org/wiki/Temporal_network.
+
+
