@@ -17,3 +17,5 @@ A temporal database, on the other hand, uses events as markers that record a his
 Temporal databases can be relational, document, key/value or graph databases at heart (RecallGraph is multi-model - KV + Document + Graph). Temporal databases often support multiple time dimensions, each with it own semantic significance (see https://en.wikipedia.org/wiki/Temporal_database).
 
 One area where the capabilities of both time series and temporal databases can potentially overlap is _Complex Event Processing_, since both types of databases are event stores at heart, and can each choose to offer their respective flavors of CEP.
+
+**P.S.** For a deep dive into temporal database concepts, see here - https://adityamukho.com/exploring-temporality-in-databases
