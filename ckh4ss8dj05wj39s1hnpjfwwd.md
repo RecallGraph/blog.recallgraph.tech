@@ -1,4 +1,13 @@
-## CivicGraph is now RecallGraph
+---
+title: "CivicGraph is now RecallGraph"
+datePublished: 2020-10-01T12:12:14.000Z
+cuid: ckh4ss8dj05wj39s1hnpjfwwd
+slug: civicgraph-is-now-recallgraph
+canonical: https://dev.to/adityamukho/civicgraph-is-now-recallgraph-57o2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1604578865589/V-nBYe8CN.jpeg
+tags: graph-database
+
+---
 
 I had  [posted earlier](/civicgraph-a-versioning-data-store-for-time-variant-graph-data)  about an open source temporal graph database that I have built, named CivicGraph.
 
