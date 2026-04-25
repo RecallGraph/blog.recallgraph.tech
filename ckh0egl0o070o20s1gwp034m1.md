@@ -1,4 +1,14 @@
-## Never lose your old data again
+---
+title: "Never lose your old data again"
+datePublished: 2020-11-02T10:27:49.749Z
+cuid: ckh0egl0o070o20s1gwp034m1
+slug: never-lose-your-old-data-again
+canonical: https://www.linkedin.com/pulse/never-lose-your-old-data-again-aditya-mukhopadhyay
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1604310343473/Gfh0d7nED.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1604310781665/ifPiVAF_l.png
+tags: graph-database
+
+---
 
 Have you ever wished you had access to a specific past version of some (possibly deleted) record (address/insurance policy/claim, etc)? If your answer is 'yes', then the following anecdote might ring a bell (or twenty):
 
