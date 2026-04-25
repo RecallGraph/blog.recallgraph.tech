@@ -1,4 +1,11 @@
-## Does RecallGraph Support Schema Versioning?
+---
+title: "Does RecallGraph Support Schema Versioning?"
+datePublished: 2021-04-24T12:59:57.615Z
+cuid: cknvr2lcd0j91ass18e2g0nk1
+slug: does-recallgraph-support-schema-versioning
+tags: version-control, graph-database
+
+---
 
 A question I've been asked more than once on ArangoDB's community forums and elsewhere:
 
