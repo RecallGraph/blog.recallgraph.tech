@@ -1,4 +1,10 @@
-## RecallGraph on HackerNews!
+---
+title: "RecallGraph on HackerNews!"
+datePublished: 2020-11-05T12:11:16.139Z
+cuid: ckh4sh5wn05uk39s1fwskbifs
+slug: recallgraph-on-hackernews
+
+---
 
 I had posted RecallGraph's project repository on HN and was pleasantly surprised see how well it was received, with over 100 upvotes.
 
