@@ -1,4 +1,11 @@
-## Time-Series vs Temporal Databases
+---
+title: "Time-Series vs Temporal Databases"
+datePublished: 2021-04-24T13:43:44.507Z
+cuid: cknvsmw8z0j56bts13g6jg1vp
+slug: time-series-vs-temporal-databases
+tags: version-control, databases, time
+
+---
 
 Another question I often get:
 
