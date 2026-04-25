@@ -1,4 +1,12 @@
-## CivicGraph - A Versioning Data Store for Time-Variant Graph Data.
+---
+title: "CivicGraph - A Versioning Data Store for Time-Variant Graph Data."
+datePublished: 2020-02-01T11:58:04.000Z
+cuid: ckh4savgh05u039s1d2bs1mjd
+slug: civicgraph-a-versioning-data-store-for-time-variant-graph-data
+canonical: https://adityamukho.com/civicgraph-a-versioning-data-store-for-time-variant-graph-data/
+tags: graph-database
+
+---
 
 I would like to introduce an open source, Apache 2.0 licensed project of mine:
 
