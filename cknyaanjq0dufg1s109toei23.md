@@ -1,4 +1,11 @@
-## Temporal Query Types
+---
+title: "Temporal Query Types"
+datePublished: 2021-04-26T07:33:38.813Z
+cuid: cknyaanjq0dufg1s109toei23
+slug: temporal-query-types
+tags: version-control, graph-database
+
+---
 
 At the time of writing this post, all of RecallGraph's API endpoints are designed to serve a particular type of temporal query, viz. _point-in-time_ queries.
 
